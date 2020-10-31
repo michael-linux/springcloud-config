@@ -1,1 +1,4 @@
 server: 8080
+
+config: 
+    info: "main branch,springcloud-config/config-dev.yml version=1.0"
